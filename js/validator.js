@@ -1,0 +1,1 @@
+!function(){var a=$("#validate-result"),t=a.attr("data-valid")||"Valid",l=a.attr("data-invalid")||"Invalid",d=ot.setOutput;ot.setSetOutput(function(i,v){d(i,v),"Valid"===i.val()?(a.addClass("valid").removeClass("invalid").text(t),i.val("")):a.addClass("invalid").removeClass("valid").text(l)})}();
