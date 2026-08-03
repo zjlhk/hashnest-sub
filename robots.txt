@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://emn178.github.io/online-tools/sitemap.xml
+Sitemap: https://hash.343493434.xyz/sitemap.xml
